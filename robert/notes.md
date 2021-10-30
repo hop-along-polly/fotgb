@@ -25,8 +25,6 @@ my_dictionary = {
 ```
 tuple = ('apple', 'cherry', 'pineapple')
 ```
-**Boolean** - True or False.
-***
 
 ## Operators
 **Arithmetic Operators**
