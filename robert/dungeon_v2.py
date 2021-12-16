@@ -62,8 +62,8 @@ while True:
                 try_again()
             elif 'right' in action:
                 print('\nYou hear a clicking sound east of your direction.')
-                treasure_room(treasure_room_unlocked = True)
                 inner_room()
+                return treasure_room_unlocked == True
             else:
                 print("That's not a correct response.")
                 inner_room()
