@@ -23,6 +23,10 @@ my_dictionary = {
     'wage': 7.25
 }
 ```
+```
+print(my_dictionary["name"])
+```
+
 **Tuple** - An ordered, changeable, collection.
 ```
 tuple = ('apple', 'cherry', 'pineapple')
@@ -71,4 +75,22 @@ Used to compare two values.
 <   # Less than
 >=  # Greater than or equal to
 <=  # Less than or equal to
+```
+
+## _for_ Loops
+
+for loops keep going as long as condition is met.
+
+```
+for 4 % 10:
+    print('working')
+```
+
+## _while_ Loops
+
+while loops continue until False.
+
+```
+while 4 % 10:
+    print('working')
 ```
