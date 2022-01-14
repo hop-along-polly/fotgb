@@ -126,6 +126,3 @@ while True:
     cave_entrance()
 
     break
-
-    
-
