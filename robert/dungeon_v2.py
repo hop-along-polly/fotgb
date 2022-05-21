@@ -1,6 +1,3 @@
-
-
-
 # Initiates game loop
 while True:
     treasure_room_unlocked = False
